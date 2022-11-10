@@ -6,6 +6,7 @@ Polimorfisme dalam OOP adalah sebuah prinsip di mana class dapat memiliki banyak
 “Bentuk” di sini dapat kita artikan: isinya berbeda, parameternya berbeda, dan tipe datanya berbeda
 
 Contoh :
+
 ![image](https://user-images.githubusercontent.com/92707545/201054868-cbbf4054-f683-45dd-bd60-8b0f1c454e92.png)
 
 Pada diagram tersebut, terdapat class BanungDatar yang memiliki tiga subclass, yaitu: Persegi, Lingkaran, dan Segitiga.
