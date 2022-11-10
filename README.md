@@ -18,9 +18,9 @@ Setiap class memiliki method yang sama yaitu luas() dan keliling(). Akan tetapi 
 2. Membuat class main Utama untuk menjalankan program :
 ![image](https://user-images.githubusercontent.com/92707545/201055827-7ce8b0ca-a459-4927-838a-3244946fbc01.png)
 
-Sekarang kita sudah punya lima class di dalam package bagnundatar.
+Sekarang sudah ada lima class di dalam package bagnundatar.
 Class yang bisa dijalankan hanyalah class Main, karena ia memiliki method main.
-Untuk menjalankannya, silahkan klik kanan pada class main.. lalu pilih Run File.
+Untuk menjalankannya, klik kanan pada class main.. lalu pilih Run File.
 Maka hasilnya:
 
 ![image](https://user-images.githubusercontent.com/92707545/201056345-650ff1d1-cc93-4cb7-a71b-886c9039dc94.png)
