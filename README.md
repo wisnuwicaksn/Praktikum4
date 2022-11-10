@@ -9,7 +9,7 @@ Contoh :
 
 ![image](https://user-images.githubusercontent.com/92707545/201054868-cbbf4054-f683-45dd-bd60-8b0f1c454e92.png)
 
-Pada diagram tersebut, terdapat class BanungDatar yang memiliki tiga subclass, yaitu: Persegi, Lingkaran, dan Segitiga.
+Pada diagram tersebut, terdapat class BangunDatar yang memiliki tiga subclass, yaitu: Persegi, Lingkaran, dan Segitiga.
 Setiap class memiliki method yang sama yaitu luas() dan keliling(). Akan tetapi method-method ini memiliki isi rumus yang berbeda.
 
 1. Membuat class BangunDatar, Persegi, Segitiga, Lingkaran yang berisi rumus luas dan keliling :
