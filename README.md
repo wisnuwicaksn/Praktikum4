@@ -21,4 +21,5 @@ Sekarang kita sudah punya lima class di dalam package bagnundatar.
 Class yang bisa dijalankan hanyalah class Main, karena ia memiliki method main.
 Untuk menjalankannya, silahkan klik kanan pada class main.. lalu pilih Run File.
 Maka hasilnya:
+
 ![image](https://user-images.githubusercontent.com/92707545/201056345-650ff1d1-cc93-4cb7-a71b-886c9039dc94.png)
